@@ -19,5 +19,10 @@ Full-stack e-commerce platform for automobile spare parts.
 3. `.env` file banva ani DB credentials taka
 4. `npm start`
 
+
+## Project Structure
+- `AutoKart-Backend/`: Node.js and Express server, routes, database connection
+- `AutoKart-Frontend/`: EJS views, CSS, client-side JavaScript
+- `scripts/`: helper scripts
 ## Author
 Tushar Madane
