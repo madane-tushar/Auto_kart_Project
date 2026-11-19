@@ -14,15 +14,15 @@ Full-stack e-commerce platform for automobile spare parts.
 - Database: MySQL
 
 ## Setup
-1. Clone: `git clone https://github.com/madane-tushar/Auto_kart_Project.git`
-2. `cd AutoKart-Backend` ani `npm install`
-3. `.env` file banva ani DB credentials taka
-4. `npm start`
-
+1. Clone the repository: `git clone https://github.com/madane-tushar/Auto_kart_Project.git`
+2. Go to the backend folder and install dependencies: `cd AutoKart-Backend` and `npm install`
+3. Create a `.env` file and add your database credentials
+4. Start the server: `npm start`
 
 ## Project Structure
 - `AutoKart-Backend/`: Node.js and Express server, routes, database connection
 - `AutoKart-Frontend/`: EJS views, CSS, client-side JavaScript
 - `scripts/`: helper scripts
+
 ## Author
 Tushar Madane
